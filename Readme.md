@@ -1,1 +1,1 @@
-<h3>Official Github Profile of Long Hackathon</h3>
+<h3>Experimenting with combition of tools and technologies together. </h3>
