@@ -1,1 +1,1 @@
-<h3>Experimenting with combition of tools and technologies together. </h3>
+<h3>Experimenting with combination of tools and technologies together. </h3>
